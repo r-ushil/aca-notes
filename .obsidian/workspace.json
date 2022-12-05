@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "c813ecc237c55207",
+    "type": "split",
+    "children": [
+      {
+        "id": "141fa3a3d79c035d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aedcdb01c24a0fa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cache Optimisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08d8704978fbb0c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multibanked Caches.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "feef5afef1b1b5df",
+    "type": "split",
+    "children": [
+      {
+        "id": "c10a1456a806d79f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "344a6d3763d7f3d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1dd8511082be59b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#BranchPrediction",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f92e0d02eeb18243",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "56a55f66b99f4803",
+    "type": "split",
+    "children": [
+      {
+        "id": "460f256154cde42e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddc1ed1250e5366a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Multibanked Caches.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "731caea37a01c7d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Multibanked Caches.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b7568e993f5163e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "06975f4afca3d509",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Multibanked Caches.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "08d8704978fbb0c9",
+  "lastOpenFiles": [
+    "Multibanked Caches.md",
+    "Cache Optimisation.md",
+    "Way Prediction.md",
+    "Virtual Memory.md",
+    "Hit Time Reduction.md",
+    "Miss Penalty Reduction.md",
+    "Write Allocate.md",
+    "Non-Blocking Caches.md",
+    "Write Back.md",
+    "Write Through.md"
+  ]
+}
