@@ -10,4 +10,4 @@ On future misses, check the head of the stream buffer:
 
 Relies on having **extra memory bandwidth**.
 
-Have multiple stream buffers - as programs often make interleaved, sequential streams of accesses.
+Have multiple stream buffers - because programs often make interleaved, sequential streams of accesses.

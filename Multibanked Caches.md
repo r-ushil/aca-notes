@@ -24,4 +24,4 @@ To handle multiple loads / stores per cycle:
 Must spread accesses naturally across banks:
 - Sequential interleaving - spread addresses of a block across banks
 
-Multiple banks in L2 allows for [[Non-Blocking Caches]] to use hit-under miss
+Multiple banks in L2 allows for [[Non-Blocking Caches]] to use hit-under miss on cache miss (can service cache hit at the same time)

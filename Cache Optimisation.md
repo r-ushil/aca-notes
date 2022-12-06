@@ -16,3 +16,19 @@ Why is higher associativity needed:
 ### Pipelined Access and Multibanked Caches to Increase Bandwidth
 
 [[Multibanked Caches]]
+
+### Nonblocking Caches
+
+[[Non-Blocking Caches]]
+
+### Critical Word First and Early Restart
+
+[[Early Restart]]
+
+### Merging Write Buffers
+
+[[Write Buffers]]
+
+### Prefetching Instructions
+
+[[Hardware Prefetching]]

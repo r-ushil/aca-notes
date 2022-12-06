@@ -18,6 +18,7 @@ Use full / empty bits in registers and use MSHR queue:
 - MSHR - MIss Status / Handler Registers
 	- Each entry in this queue keeps track of the status of outstanding memory requests to one complete memory line (register full/empty bits)
 	- Knows when to stall
+	- Important to know where a cache miss return should go, because of OoO
 
 
 ### Hit Under Miss

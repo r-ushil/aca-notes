@@ -27,18 +27,25 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#Sidechannels",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.622828125,
+  "lineSizeMultiplier": 2.43949479166667,
   "collapse-forces": false,
-  "centerStrength": 0.3375,
-  "repelStrength": 10,
-  "linkStrength": 1,
+  "centerStrength": 0,
+  "repelStrength": 3.54895833333333,
+  "linkStrength": 0.177447916666667,
   "linkDistance": 250,
-  "scale": 0.801491687977572,
+  "scale": 1.149497308149749,
   "close": true
 }

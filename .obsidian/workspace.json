@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "141fa3a3d79c035d",
+        "id": "42fccd874ccde9d9",
         "type": "tabs",
         "children": [
           {
-            "id": "aedcdb01c24a0fa9",
+            "id": "d463384e585da337",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cache Optimisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08d8704978fbb0c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multibanked Caches.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multibanked Caches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multibanked Caches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Multibanked Caches.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "08d8704978fbb0c9",
+  "active": "d463384e585da337",
   "lastOpenFiles": [
-    "Multibanked Caches.md",
-    "Cache Optimisation.md",
-    "Way Prediction.md",
-    "Virtual Memory.md",
-    "Hit Time Reduction.md",
-    "Miss Penalty Reduction.md",
+    "Static Instruction Scheduling.md",
+    "Flush and Reload.md",
+    "Sidechannels.md",
+    "Evict and Time.md",
+    "Prime and Probe.md",
     "Write Allocate.md",
-    "Non-Blocking Caches.md",
-    "Write Back.md",
-    "Write Through.md"
+    "Compiler Optimisations.md",
+    "Miss Rate Reduction - Hardware.md",
+    "Miss Rate Reduction - Software.md",
+    "Miss Penalty Reduction.md"
   ]
 }
