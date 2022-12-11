@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "42fccd874ccde9d9",
+        "id": "cfc0f6d2089f1b71",
         "type": "tabs",
         "children": [
           {
-            "id": "d463384e585da337",
+            "id": "f1a5c37d10e1df95",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "56a55f66b99f4803",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cheat Sheet.md"
+              }
             }
           }
         ]
@@ -129,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d463384e585da337",
+  "active": "f1a5c37d10e1df95",
   "lastOpenFiles": [
+    "Vector Instructions (SIMD).md",
+    "Virtual Memory.md",
+    "Victim Caches.md",
+    "Cheat Sheet.md",
+    "Tomasulo.md",
     "Static Instruction Scheduling.md",
-    "Flush and Reload.md",
-    "Sidechannels.md",
-    "Evict and Time.md",
-    "Prime and Probe.md",
-    "Write Allocate.md",
-    "Compiler Optimisations.md",
-    "Miss Rate Reduction - Hardware.md",
-    "Miss Rate Reduction - Software.md",
-    "Miss Penalty Reduction.md"
+    "Speculative Execution.md",
+    "SonicBOOM Questions.md",
+    "SonicBOOM.md",
+    "Skewed-Associative Caches.md"
   ]
 }

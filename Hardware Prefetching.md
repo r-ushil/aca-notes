@@ -1,7 +1,6 @@
 #Caches 
 
 Extra block fetched placed in a ***stream buffer***.
-
 After a cache miss, the stream buffer prefetches the **next** successive cache line.
 
 On future misses, check the head of the stream buffer:

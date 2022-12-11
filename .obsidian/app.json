@@ -1,4 +1,23 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "microOps",
+    "writes",
+    "TAGE",
+    "SRAMs",
+    "D$",
+    "prefetcher",
+    "Misspeculated",
+    "D$",
+    "finishc",
+    "misspeculation",
+    "mispredict",
+    "snapshotted",
+    "Superscalar",
+    "mispredicted",
+    "mispredictions",
+    "SonicBOOM",
+    "microarchitectural"
+  ]
 }
